@@ -1,0 +1,8 @@
+{
+    "name": "appconfig-service",
+    "version": "1.0.58",
+    "private": false,
+    "environment": "production",
+    "build_id": 552,
+    "allow_public_access": true
+}
